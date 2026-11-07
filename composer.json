@@ -1,0 +1,9 @@
+{
+  "name": "elnemer70/quran-php-qiraat-variant-diff",
+  "description": "Ten Canonical Qira'at Phonetic & Orthographic Diff Engine (مقارن القراءات العشر المتواترة واختلاف الفرش والأصول)",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
